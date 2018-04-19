@@ -1,6 +1,12 @@
 # RN_AwesomeProject
 Open Terminal
-`$ npm install`
+'$ npm install'
 
 cd ios/
-`$ react-native run-ios`
+'$ pod install'
+
+cd ..
+'$ npm start'
+
+'$ react-native run-ios'
+
