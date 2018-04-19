@@ -1,5 +1,6 @@
 # RN_AwesomeProject
 Open Terminal
+`cd <Root Directory>`
 `$ npm install`
 
 cd ios
