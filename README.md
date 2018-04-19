@@ -1,13 +1,16 @@
 # RN_AwesomeProject
 ## Installation and Usage
 
-`cd <Root Directory>`
+`$ cd <Root Directory>`
+
 `$ npm install`
 
-`cd ios`
+`$ cd ios`
+
 `$ pod install`
 
-`cd ..`
+`$ cd ..`
+
 `$ npm start`
 
 `$ react-native run-ios`
