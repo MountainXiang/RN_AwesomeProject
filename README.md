@@ -1,12 +1,13 @@
-# RN_AwesomeProject
-Open Terminal
+# Usage
+# Open Terminal
+
 `cd <Root Directory>`
 `$ npm install`
 
-cd ios
+`cd ios`
 `$ pod install`
 
-cd ..
+`cd ..`
 `$ npm start`
 
 `$ react-native run-ios`
