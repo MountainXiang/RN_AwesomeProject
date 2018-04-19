@@ -1,5 +1,4 @@
-# Usage
-# Open Terminal
+# RN_AwesomeProject
 
 `cd <Root Directory>`
 `$ npm install`
