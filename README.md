@@ -1,6 +1,5 @@
 # RN_AwesomeProject
-
-first run Terminal
+Open Terminal
 `$ npm install`
 
 cd ios/
